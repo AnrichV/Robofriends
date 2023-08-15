@@ -1,4 +1,4 @@
-#About this project
+About this project
 This is one of the apps I followed along with when doing the Fullstack development course from ZtM (https://zerotomastery.io/)
 The goal of this excercise was to get aquainted React and Create React App.
 
