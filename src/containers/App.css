@@ -14,9 +14,9 @@ h1 {
 
 SearchBox {
   position: sticky;
+  box-shadow: -5px 0px 20px -5px black;
 }
 
 #Scroll {
-  box-shadow: inset -5px 0px 20px -5px black;
   height: 84.5vh;
 }
