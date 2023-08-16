@@ -9,8 +9,14 @@ h1 {
   font-family: "SEGA LOGO FONT";
   font-weight: 200;
   color: #0ccac4;
+  position: sticky;
+}
+
+SearchBox {
+  position: sticky;
 }
 
 #Scroll {
   box-shadow: inset -5px 0px 20px -5px black;
+  height: 84.5vh;
 }
